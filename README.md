@@ -1,4 +1,4 @@
-Mon avancée sur la plateforme :contentReference[oaicite:0]{index=0}
+Mon avancée sur la platforme Root-Me.
 
 Ce repository me sert de **journal de progression** sur Root-Me, afin de suivre mon évolution dans différents domaines de la cybersécurité : web, réseau, cryptographie, forensic, etc.
 
